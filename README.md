@@ -305,9 +305,6 @@ dataset and explain how to obtain it in `data/README.md`.
 
 Data Analytics \| Python \| Statistics \| SQL
 
--   **GitHub:** Add your GitHub profile URL
--   **LinkedIn:** Add your LinkedIn profile URL
-
 ------------------------------------------------------------------------
 
 If you have suggestions or feedback, feel free to open an issue or
